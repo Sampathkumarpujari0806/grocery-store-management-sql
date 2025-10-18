@@ -140,7 +140,8 @@ This project answers real-world business questions such as:
 ## ER Diagram
 The database structure is illustrated below:
 
-![ER Diagram](<img width="1271" height="835" alt="grocery erdiagram" src="https://github.com/user-attachments/assets/2039a4d9-643a-4913-b51c-9b039b1abb20" />)
+<img width="1271" height="835" alt="grocery erdiagram" src="https://github.com/user-attachments/assets/31858966-c6e6-40e5-89b2-a5df11d07692" />
+
 
 
 ## 📈 Key Insights & Recommendations
