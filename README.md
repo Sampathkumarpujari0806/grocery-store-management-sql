@@ -154,4 +154,58 @@ The database structure is illustrated below:
 - **Two suppliers** together contribute **60% of the store’s total revenue**, indicating that a majority of sales come from a small number of key suppliers.
 - **Two employees** together handled **75 out of 300 total orders**, indicating a need for better work distribution among the team.
 
+##  Datasets
 
+All `.csv` files used for importing data into tables are available in the `/datasets` folder or as a ZIP file (datasets.zip`), including:
+
+- `supplier.csv`
+- `categories.csv`
+- `employees.csv`
+- `customers.csv`
+- `products.csv`
+- `orders.csv`
+- `order_details.csv`
+  
+--- 
+
+## 📝 How to Run
+
+1. Download or clone the project repository to your system.
+2. Open the SQL file in your preferred database tool (e.g., MySQL Workbench).
+3. Run the script file (grocery_schema.sql) to create all tables in the correct order.
+4. Import data from the respective CSV files into each table one by one.
+5. Execute the analysis script (grocery_store_management_queries.sql) to generate business insights.
+6. Review the ER diagram and compare results with expected outputs.
+7. Explore insights and conclusions from the presentation or documentation for better understanding.
+
+---
+
+## 📊 Conclusions
+
+The project successfully demonstrates how a structured relational database can streamline grocery store operations.Using advanced SQL techniques, the analysis revealed valuable customer behavior patterns, supplier performance insights, and product sales trends.
+
+#### These insights can help the store:
+
+- Optimize stock levels
+- Improve supplier selection
+- Enhance marketing strategies
+- Increase overall profitability
+
+---
+
+## 🚀 Future Enhancements
+
+- Add triggers for automatic stock updates.
+- Integrate front-end dashboard using Power BI / Tableau.
+- Implement order invoice generation.
+- Add role-based access (Admin vs Staff).
+
+---
+
+## 👤 Author & Contact
+
+Author: Pujari Sampath Kumar <br>
+🎓 B.Tech                   <br>
+📧 Email: sampathsanju97@gmail.com<br>
+🔗 LinkedIn:http://www.linkedin.com/in/sampathkumarpujari<br>
+💻 GitHub: https://github.com/Sampathkumarpujari0806
