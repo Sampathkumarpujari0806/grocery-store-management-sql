@@ -206,6 +206,6 @@ The project successfully demonstrates how a structured relational database can s
 
 Author: Pujari Sampath Kumar <br>
 🎓 B.Tech                   <br>
-📧 Email: sampathsanju97@gmail.com<br>
+📧 Email: sampathkumarpujari4@gmail.com<br>
 🔗 LinkedIn:http://www.linkedin.com/in/sampathkumarpujari<br>
 💻 GitHub: https://github.com/Sampathkumarpujari0806
